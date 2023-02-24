@@ -6,4 +6,5 @@ In this project, we made use of baseline logistic regression for the classificat
 
 
 ## Author
-- https://github.com/madelinelimm "Madeline Lim Chia Bing" 
+- <a href="https://github.com/madelinelimm" target="_blank">Madeline Lim Chia Bing</a>
+
